@@ -1,0 +1,104 @@
+body { 
+    background-color: cornsilk;
+    width: 940px;
+    margin: 0px auto;
+
+}
+#cabecalho {
+    background-color: #ABE060;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    padding: 10px 0 0 15px;
+}
+
+
+#Ana {
+   
+    border: 10px solid #ABE060;
+    border-style:double;
+    text-align: center;
+    padding: 10px 0 0 15px;
+    margin: 30px;
+    font-size: 30px;
+    color: #F8A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    
+}
+#Ana img{
+    width: 500px;
+
+}
+
+h1 {
+    color: #089650;
+
+
+}
+
+h2 { 
+    color: #F8A;
+    border-bottom: 7px dashed #FAD;
+    font-size: 55px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 { text-align: center;
+    font-size: 25px;
+
+
+
+}
+
+p {
+    font-size: 25px;
+    color: rgb(114, 64, 37);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-indent: 20px;
+
+}
+
+#rodape {
+    background-color: #ABE060;
+   
+    text-align: center;
+    padding: 10px 0 0 15px;
+    margin: 30px;
+
+    color: #089650 ;
+    font-size: 25px;
+    font-style: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+#rodape img {
+    width: 200px;
+}
+
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    text-align: justify;
+    font-size: 28px;
+    color: rgb(114, 64, 37);
+
+}
+
+dl {
+    text-indent: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    color: rgb(114, 64, 37);
+
+    
+}
+
+dt{
+    font-size: 28px;
+
+
+
+}
+
+dd{
+
+}
